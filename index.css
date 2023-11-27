@@ -59,3 +59,16 @@ a:active {
     border: 0px;
     background-color: rgb(21, 205, 144);
 }
+.d-flex{
+    display: flex;
+    background-color: rgb(132, 250, 134);
+    height: 100px;
+    width: 100%;
+}
+
+.fb{
+    padding-left: 350px;
+}
+.full{
+    padding-left:50px;
+}
